@@ -15,6 +15,6 @@ In this challenge, you must create an application to train what you have learned
 
 ## :memo: License
 
-Esse projeto está sob a licença GPL. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the GPL license. See the [LICENSE] file (LICENSE.md) for more details.
 
 ---
